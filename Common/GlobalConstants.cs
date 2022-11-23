@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Persistence
+namespace Common
 {
-    internal class DependencyContainer
+    internal class GlobalConstants
     {
     }
 }
