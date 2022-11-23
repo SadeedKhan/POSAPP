@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Menu\Commands\InsertMenu\" />
+    <Folder Include="Menu\Queries\GetMenuList\" />
+  </ItemGroup>
+
 </Project>
